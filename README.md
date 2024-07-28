@@ -1,6 +1,8 @@
 # Golden-Globes-NLP
 Analysing the Golden Globes from JSON Data of tweets.
-
+- Prateek Majumder
+- Neha Roy Choudhury
+- Bhawana Gurumukhdas Thawarani
 
 #### Requirements:
 
